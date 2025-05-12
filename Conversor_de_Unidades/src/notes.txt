@@ -1,6 +1,22 @@
 Unidades a serem convertidas:
 -Distância(metros)
 -Massa(gramas)
--volume(litros)
 -volume(m³)
+-ângulo
+-----------------------
+*medidas de volume*
+-Quilômetro cúbico km³
+-Hectômetro cúbico hm³
+-Decâmetro cúbico dam³
+-Metro cúbico m³
+-Decímetro cúbico dm³
+-Centímetro cúbico cm³
+-Milímetro cúbico mm³
 
+-----------------------
+
+estudar
+-spring Boot
+-microservico com spring
+-postman
+-conectar banco de dados
