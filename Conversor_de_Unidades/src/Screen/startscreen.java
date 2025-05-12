@@ -149,6 +149,12 @@ public class startscreen extends JFrame{
             
         });
 
+        conversor.addItemListener(new ItemListener() {
+            public void itemStateChanged(ItemEvent e){
+                
+            }
+        });
+
 
     }
 
