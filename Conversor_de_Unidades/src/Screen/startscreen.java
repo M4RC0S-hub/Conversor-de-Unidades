@@ -12,6 +12,7 @@ import java.awt.event.ItemListener;
 import model.converter;
 
 import javax.swing.BoxLayout;
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
@@ -33,6 +34,8 @@ public class startscreen extends JFrame{
 		this.setLocationRelativeTo(null);
         Container c = this.getContentPane();
         c.setLayout(new BorderLayout());
+        ImageIcon icone = new ImageIcon("Conversor_de_Unidades/src/image/6739346.png");
+		setIconImage(icone.getImage());
 
         // JPANEL
         JPanel panelN = new JPanel();
